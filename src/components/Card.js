@@ -1,4 +1,3 @@
-import './Card.css';
 // import React, {Fragment} from "react";
 
 
