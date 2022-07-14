@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyRoboFriends/static/css/main.5bfd473c.css",
+    "main.js": "/MyRoboFriends/static/js/main.18a8cd29.js",
+    "static/js/787.4a3eba2e.chunk.js": "/MyRoboFriends/static/js/787.4a3eba2e.chunk.js",
+    "index.html": "/MyRoboFriends/index.html",
+    "main.5bfd473c.css.map": "/MyRoboFriends/static/css/main.5bfd473c.css.map",
+    "main.18a8cd29.js.map": "/MyRoboFriends/static/js/main.18a8cd29.js.map",
+    "787.4a3eba2e.chunk.js.map": "/MyRoboFriends/static/js/787.4a3eba2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfd473c.css",
+    "static/js/main.18a8cd29.js"
+  ]
+}
